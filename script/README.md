@@ -3,6 +3,7 @@
 ## 결과
 
 ```
+italian     4.04
 german      4.16
 english     4.18
 zasokese    4.37
@@ -15,6 +16,7 @@ chinese     9.67
 
 - `german.tsv`: https://www.sttmedia.com/characterfrequency-german
 - `english.tsv`: https://www.sttmedia.com/characterfrequency-english
+- `italian.tsv`: https://www.sttmedia.com/characterfrequency-italian
 - `korean.tsv`: https://yottu.tistory.com/13
     - 0인 값 삭제
 - `chinese_orig.tsv`: https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO
