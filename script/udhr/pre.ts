@@ -10,14 +10,16 @@ const pre =
                 .join("")
         }
         result = result
-            .replace(/[ ,.\n\r]/g, "")
+            .replace(/[ ,.;'\n\r\t、。]/g, "")
 
-        await Deno.writeTextFile(`udhr/${name}.txt`, result)    
+        await Deno.writeTextFile(`udhr/${name}.txt`, result)
+        console.log(name + " " + result.length)
     }
 
 await pre("english")
-//await pre("german")
+await pre("german")
+await pre("italian")
 await pre("korean")
-//await pre("japanese")
-//await pre("chinese")
-// await pre("zasokese")
+await pre("japanese")
+await pre("chinese")
+//await pre("zasokese")
