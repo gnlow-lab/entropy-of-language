@@ -1,5 +1,16 @@
 # 문자
 
+## 결과
+
+```
+german      4.16
+english     4.18
+zasokese    4.37
+korean      4.47
+japanese    6.65
+chinese     9.67
+```
+
 ## 출처
 
 - `german.tsv`: https://www.sttmedia.com/characterfrequency-german
