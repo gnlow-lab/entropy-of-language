@@ -3,13 +3,13 @@
 ## 결과
 
 ```
-italian     4.04
-german      4.16
-english     4.18
-zasokese    4.37
-korean      4.47
-japanese    6.65
-chinese     9.67
+italian     4.04    1802    7280.08
+german      4.16    1797    7475.52
+english     4.18    1647    6884.46
+zasokese    4.37    
+korean      4.47    1488    6651.36
+japanese    6.65    602     4003.3
+chinese     9.67    440     4254.8
 ```
 
 ## 출처
