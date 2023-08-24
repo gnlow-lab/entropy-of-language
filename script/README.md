@@ -3,6 +3,8 @@
 ## 결과
 
 ```
+                    UDHR
+Language    Entropy Length  Bits
 italian     4.04    1802    7280.08
 german      4.16    1797    7475.52
 english     4.18    1647    6884.46
