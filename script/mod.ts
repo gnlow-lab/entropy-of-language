@@ -10,7 +10,7 @@ const getEntropy =
     .map(n => n * Math.log2(1/n))
     .reduce((a, b) => a + b, 0)
 
-const file = await Deno.readTextFile("data/chinese.tsv")
+const file = await Deno.readTextFile("data/japanese.tsv")
 const chars = parseTsv(file)
 const counts = chars.map(([_, count]) => count)
 const total = counts.reduce((a, b) => a + b, 0)

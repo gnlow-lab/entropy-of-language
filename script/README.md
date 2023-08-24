@@ -7,4 +7,4 @@
 - `korean.tsv`: https://yottu.tistory.com/13
     - 0인 값 삭제
 - `chinese.tsv`: https://lingua.mtsu.edu/chinese-computing/statistics/char/list.php?Which=MO
-
+- `japanese.tsv`: http://xahlee.info/kbd/jp_hiragana_frequency_table.html
